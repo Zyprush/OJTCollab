@@ -1,0 +1,79 @@
+#welcome-message {
+  margin: 20px;
+}
+.navbar-brand {
+  color: rgb(80, 80, 236);
+}
+.sec1 {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.sec1 div {
+  display: inline-block;
+  width: 30%;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.box h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.box p {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.welcome p {
+  margin: 20px;
+}
+
+.container {
+  margin: 50px auto;
+  width: 90%;
+  max-width: 100%;
+}
+
+.sec2 {
+  background-color: #f2f2f2;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 5px #888;
+}
+
+.form-inline {
+  display: inline-flex;
+}
+
+.form-control {
+  width: 300px;
+  margin-right: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+.text-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+img {
+  width: 110px;
+  height: auto;
+}
