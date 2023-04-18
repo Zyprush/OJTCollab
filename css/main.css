@@ -66,3 +66,16 @@ img {
   width: 110px;
   height: auto;
 }
+#Title-page{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+#navbarSupportedContent a.nav-link:hover{
+  background-color: black;
+  color: white;
+}
+.nav-link{
+width: auto;
+height: auto;
+border-radius: 25px;
+}
