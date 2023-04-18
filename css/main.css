@@ -53,10 +53,6 @@
   width: 300px;
   margin-right: 10px;
 }
-
-.btn {
-  margin-top: 10px;
-}
 .text-right {
   display: flex;
   justify-content: flex-end;
@@ -66,10 +62,6 @@ img {
   width: 110px;
   height: auto;
 }
-#Title-page{
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-}
 #navbarSupportedContent a.nav-link:hover{
   background-color: black;
   color: white;
@@ -78,4 +70,9 @@ img {
 width: auto;
 height: auto;
 border-radius: 25px;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+
 }
